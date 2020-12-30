@@ -8,4 +8,4 @@ multiline_str= "Red Star Que Initiated"
 #placeholder
 a="discordid" b= "discordid(2)" c= "discordid(3)" d="discordid(4)"
 i9= """[discordid] Started a Red Star 9"""
-  print ("strings"), ("multilin_str")
+  print ("strings"), ("multiline_str")
